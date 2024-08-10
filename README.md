@@ -1,6 +1,6 @@
 # Pierre-Louis PEREZ 
 
-[🚧**WORK IN PROGRESS**🚧]
+# 🚧**WORK IN PROGRESS**🚧
 
 [![LinkedIn](https://img.shields.io/badge/My_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-louis-perez/)
 
