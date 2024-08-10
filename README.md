@@ -4,13 +4,19 @@
 
 ## Professional experiences:
 
+- **Data Engineer** @Dacker (6 months)
+
+- **Data Scientist** @Theraclion (6 months)
+
 - **Data Scientist consultant** at Headmind Partners AI
     - Data Engineer at Hermès (1 year 1/2)
-    - Data Scientist at AirLiquide (since August 2024) 
+    - Internship supervisor about "optimizing betting on soccer games" (Data collection, TimeSeries, MLOps, Docker) 
+    - Data Scientist at AirLiquide (since August 2024)
+
 
 ## Education
 
-- **Student at [**CentraleSupélec**](https://www.centralesupelec.fr/)** :man_student:: top 3 french Engineer School (Deep Learning lessons and many more) - *3 years*
+- **Student at [**CentraleSupélec**](https://www.centralesupelec.fr/)** :man_student:: top 3 french Engineer School (ML, DL, Optimization, Algorithmics, Python, SQL...) - *3 years*
 
 - **Double degree at ESCP in management**
 
